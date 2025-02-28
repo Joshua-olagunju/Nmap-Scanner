@@ -1,10 +1,10 @@
-Nmap Scanner
+##Nmap Scanner
 
-Description
+##Description
 
 This is a Python-based Nmap Scanner that allows users to perform network scanning using the Nmap tool. It helps in identifying live hosts, open ports, and services running on a network.
 
-#Features
+## Features
 
 - Scans a target IP or domain
 - Identifies open ports
