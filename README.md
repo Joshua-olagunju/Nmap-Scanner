@@ -41,3 +41,5 @@ This tool is intended for educational and ethical testing purposes only. Do not 
 
 This project is licensed under the MIT License.
 
+## Feedback & Suggestions
+If you have any feedback or suggestions on improving this script, feel free to leave a comment on this [issue](https://github.com/Joshua-olagunju/Nmap-Scanner/issues/1).  
