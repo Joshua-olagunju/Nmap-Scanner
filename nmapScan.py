@@ -28,3 +28,7 @@ def nmap_scan():
     print("Scan completed! Results have been saved to:", filename, "in your current directory")
 
 nmap_scan()
+
+# Feedback & Suggestions:
+# If you have any suggestions or improvements for this script, please leave a comment here:
+# https://github.com/Joshua-olagunju/Nmap-Scanner/issues/1
